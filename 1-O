@@ -1,0 +1,8 @@
+in the best case
+O(n)
+
+in the average case
+O(n^2)
+
+in the worst case
+O(n^2)
